@@ -43,7 +43,7 @@ const Hero = props => {
             <React.Fragment>
             <section className="hero">
               <h1>
-                This is a demo site of&nbsp;the <strong>heroBlog</strong> GatsbyJS starter
+                dispelling common myths and misconceptions &nbsp; <strong>Against the Grain</strong> health blog 
               </h1>
               <button onClick={scrollToContent} aria-label="scroll">
                 <FaArrowDown />
@@ -79,6 +79,7 @@ const Hero = props => {
                 color: ${theme.hero.h1.color};
                 line-height: ${theme.hero.h1.lineHeight};
                 text-remove-gap: both 0 "Open Sans";
+				text-shadow: 1px 1px 1px #000000; /* FF3.5+, Opera 9+, Saf1+, Chrome, IE10 */
       
                 :global(strong) {
                   position: relative;

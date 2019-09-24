@@ -1,28 +1,28 @@
 module.exports = {
-  siteTitle: "Atte Juvonen", // <title>
-  shortSiteTitle: "Atte Juvonen", // <title> ending for posts and pages
-  siteDescription: "Atte Juvonen",
-  siteUrl: "https://www.attejuvonen.fi",
+  siteTitle: "Against the Grain Health", // <title>
+  shortSiteTitle: "ATGhealth", // <title> ending for posts and pages
+  siteDescription: "Against the grain health advice. Dispelling common myths and anecdotal evidence with data driven lifestyle solutions",
+  siteUrl: "https://www.atghealth.gq",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
   /* author */
-  authorName: "Atte Juvonen",
+  authorName: "zac Jeckell",
   authorTwitterAccount: "",
-  authorGithub: "https://github.com/baobabkoodaa",
-  authorStackoverflow: "https://stackexchange.com/users/5678032/atte-juvonen?tab=accounts",
-  authorLinkedin: "https://linkedin.com/in/atte-juvonen-86b886113",
-  authorCodeforces: "https://codeforces.com/profile/baobab",
-  authorYoutube: "https://www.youtube.com/channel/UCfHqfHoSYL0V_fXA_JQkeLw?view_as=subscriber",
+  authorGithub: "https://github.com/MetalFever",
+  authorStackoverflow: "",
+  authorLinkedin: "",
+  authorCodeforces: "",
+  authorYoutube: "",
 
   /* header text */
-  headerTitle: "atte juvonen",
+  headerTitle: "atg health",
   headerSubTitle: "",
 
   /* manifest.json */
-  manifestName: "Atte Juvonen",
-  manifestShortName: "atteJuvonen", // max 12 characters
+  manifestName: "Against the Grain Health",
+  manifestShortName: "ATGhealth", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",

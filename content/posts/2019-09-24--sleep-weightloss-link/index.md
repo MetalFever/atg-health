@@ -10,7 +10,7 @@ author: zac jeckell
 
 Catching up on sleep on the weekend can almost feel like the norm these days. With increasingly full schedules and competing demands, sleep is often sacrificed during the busy workweek. As the week comes to an end, many people look to the less structured weekend to cram in what couldn't be done during the week, including sleep.
 
-When asked about their current slepp clinics, Harvard Clinicians said,
+When asked about their current sleep clinics, Harvard Clinicians said,
 > I now ask "When do you get up on work days?" and "What about bedtime and wakeup time on days off?" The catch-up time - perhaps a 6 am wake-up for a work day, but 11 am on a weekend - can be close to an entire weeknight's sleep.
 
 Does it matter? We're paying back our sleep debt, right? Our average hours of sleep may hide a weekly sleep debt Despite the fact that number of hours of sleep, when averaged, may approach the seven to nine hours per night recommended by most professional societies, the "Average" can hide some truths. The daily amount, quality, and regularity of bed/wake time all seem to matter too.

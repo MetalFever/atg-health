@@ -1,6 +1,6 @@
 ---
 title: Weightloss and Sleep - The Truth You Don't Want to Hear!!!
-tags: ["sleep, insomnia, weightloss, belly fat"]
+tags: ["weightloss"]
 cover: malvestida-magazine-FfbVFLAVscw-unsplash.jpg
 author: zac jeckell
 ---

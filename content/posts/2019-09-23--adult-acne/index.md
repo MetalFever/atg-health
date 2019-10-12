@@ -1,6 +1,6 @@
 ---
 title: What Causes Adult Acne?!
-tags: ["acne, adult acne, skincare, skin care, healthy skin"]
+tags: ["acne", "adult acne", "skincare", "skin care", "healthy skin"]
 cover: 060041.jpg
 author: zac jeckell
 ---
